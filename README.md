@@ -27,5 +27,3 @@ Computer Science student at Indiana University Indianapolis interested in:
 ## Contact
 www.linkedin.com/in/anuj-rimal-638925201
 
-LinkedIn: [link]
-Email: [email]
